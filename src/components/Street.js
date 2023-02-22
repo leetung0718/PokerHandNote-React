@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { Streets } from '../helpers/StreetName'
+import { Streets } from '../helpers/StreetInfo'
 import { PokerContext } from '../helpers/Contexts'
 import '../App.css'
 

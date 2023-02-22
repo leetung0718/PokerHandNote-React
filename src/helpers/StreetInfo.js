@@ -2,17 +2,25 @@ export const Streets = [
     // Preflop
     {
         name: "PREFLOP",
+        pot: 0,
+        action: [],
     },
     // flop
     {
         name: "FLOP",
+        pot: 0,
+        action: [],
     },
-    // Preflop
+    // Turn
     {
         name: "TURN",
+        pot: 0,
+        action: [],
     },
-    // Preflop
+    // River
     {
         name: "RIVER",
+        pot: 0,
+        action: [],
     },
 ];

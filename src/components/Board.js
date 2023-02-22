@@ -16,8 +16,6 @@ function Board() {
             {currStreet === 1 && <Flop />}
             {currStreet === 2 && <Turn />}
             {currStreet === 3 && <River />}
-
-            <span> ${pot} </span>
         </div>
     )
 }
